@@ -1,9 +1,7 @@
 package NewPackage;
 
-import org.testng.ITestListener;
-import org.testng.ITestContext ;				
-import org.testng.ITestResult ;	
+import org.testng.ITestNGListener;
 
-public class listeners implements ITestListener{
+public class listeners implements ITestNGListener{
 
 }
